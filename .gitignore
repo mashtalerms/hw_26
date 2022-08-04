@@ -1,0 +1,10 @@
+archive/
+venv/
+.idea/
+.*_cache/
+__pycache__
+.coverage
+/pg_data
+docker-compose.yaml
+project/docker_config.py
+project/config.py
